@@ -1,15 +1,12 @@
-
-<img width="375" height="205" alt="image" src="https://github.com/user-attachments/assets/4c77b13c-15dd-4e7b-86c4-4f0c4c6fe3d0" />
 ![banner](https://capsule-render.vercel.app/api?type=waving&height=200&text=Yashi&fontAlign=50&fontAlignY=40&color=gradient&fontSize=70&fontColor=ffffff)
 
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Excel</h3>
 
 <p align="center">
   <a href="https://github.com/yashi2912"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yashi-shukla-65a971305"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yashi.shukla2912@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yashi2912"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yashi2912@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
 
 ---
 
