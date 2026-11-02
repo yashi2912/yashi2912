@@ -5,6 +5,13 @@
 <p align="center">
   <a href="https://github.com/yashi2912"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yashi-shukla-65a971305"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/yashi2912"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="mailto:yashi.shukla2912@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+</p>
+<p align="center">
   <a href="mailto:yashi.shukla2912@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
