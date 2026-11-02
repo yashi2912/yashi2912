@@ -97,3 +97,21 @@ I don't just write queries, I find **stories hidden in data**. My focus is on co
 - ✔️ Analyzed Customer Buying Patterns, Revenue Trends & Inventory Management
 - ✔️ Built Excel Dashboard with Pivot Tables to track Monthly Sales & Stock Reports
 ---
+
+---
+
+<p align="center"> 🚀 "Data with purpose, insights with vision." </p>
+<p align="center"> Thanks for visiting my profile! Let's build impactful data solutions together 📊✨ </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILDING-INSIGHTFUL%20DASHBOARDS-4CAF50?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TECH-SQL%20%7C%20PYTHON%20%7C%20POWER%20BI-9C27B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GOAL-DATA%20ANALYST-FF6F00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ab6ff&height=100&section=footer" width="100%"/>
+</p>
