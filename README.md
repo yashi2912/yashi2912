@@ -42,13 +42,6 @@ I don't just write queries, I find **stories hidden in data**. My focus is on co
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashi2912&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi2912&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
