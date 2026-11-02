@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://your-banner-image-link-here" />
-</div>
+<img src="https://raw.githubusercontent.com/yashi2912/yashi2912/main/banner.png" width="100%" />
 
-<h3 align="center">Building Data-Driven Solutions</h3>
+<h3 align="center">Building Data-Driven Solutions | Aspiring Data Analyst</h3>
 
 <p align="center">
   <a href="https://github.com/yashi2912"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -14,22 +12,22 @@
 
 ### ⚡ Strategic Approach & Identity
 
-<img align="right" width="400" src="data-analyst.png" />
+<img align="right" width="380" src="data-analyst.png" />
 
-Welcome! I'm **Yashi**, an aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
+Hi, I'm **Yashi Shukla**, an aspiring **Data Analyst**.
 
-I focus on building **real-world, data-driven solutions** using SQL, Python & Excel. My journey is all about transforming messy datasets into clean, actionable business stories.
+I don't just write queries, I find **stories hidden in data**. My focus is on converting raw, messy data into clean, meaningful business insights that help in decision making.
 
 #### 💡 What I Do
-- 📊 Analyzing real-world datasets like Superstore Sales
-- 💻 Writing complex SQL queries & data cleaning with Python
-- 📈 Building Analytics Dashboards & KPI Tracking
-- 🔍 Finding hidden trends: Insights → Trends
+- 📊 Working on Real-World Datasets (Superstore Sales Analysis)
+- 💻 Complex SQL Queries, Joins & Data Cleaning with Python
+- 📈 KPI Tracking & Interactive Dashboards in Excel
+- 🔍 Insight Generation: `Insights → Trends → Decisions`
 
-#### 🔥 Mindset & Vision
-- 🧠 **Analytical Mindset:** I don't just see numbers, I find stories in data
-- 🎯 **Detail Oriented:** Focus on accurate data & actionable insights
-- 🚀 **Goal:** To become a top Data Analyst who drives business decisions
+#### 🔥 My Vision
+- 🧠 **Analytical Mindset:** Numbers se kahani nikalna
+- 🎯 **Accuracy First:** Clean Data = Correct Insights
+- 🚀 **Goal:** Top Data Analyst banna jo business ko grow karaye
 
 <br clear="right"/>
 
@@ -37,15 +35,30 @@ I focus on building **real-world, data-driven solutions** using SQL, Python & Ex
 
 ### 🛠️ Tech Arsenal
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 📈 GitHub Stats
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashi2912&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashi2912&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi2912&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+---
+
 ### 🚀 Featured Projects
-- **Superstore Sales Analysis** - SQL + Excel Dashboard
-- **More Projects Coming Soon...**
+
+- 📌 **Superstore Sales Analysis** - Analyzed sales data using SQL & Excel to find profit trends [Repo Link]
+- 📌 **More Projects Coming Soon...**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GOAL-BECOMING%20TOP%20ANALYST-green?style=for-the-badge" />
+</p>
