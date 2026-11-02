@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yashi2912/yashi2912/main/banner.png" width="100%" />
+
 <img src="https://raw.githubusercontent.com/yashi2912/yashi2912/main/banner.png" width="100%" />
 
 <h3 align="center">Building Data-Driven Solutions | Aspiring Data Analyst</h3>
