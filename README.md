@@ -62,3 +62,14 @@ I don't just write queries, I find **stories hidden in data**. My focus is on co
   <img src="https://img.shields.io/badge/FOCUS-DATA%20ANALYTICS-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GOAL-BECOMING%20TOP%20ANALYST-green?style=for-the-badge" />
 </p>
+
+### 🚀 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashi2912&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi2912&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi2912&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
