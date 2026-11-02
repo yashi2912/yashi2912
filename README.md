@@ -66,3 +66,15 @@ I don't just write queries, I find **stories hidden in data**. My focus is on co
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashi2912&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+### 🚀 Professional Experience & Timeline
+
+#### 📊 Data Analytics with Python & Power BI - Virtual Intern
+**EduSkills Academy | Cohort 19**
+
+- 🎯 Completed comprehensive training in Data Analytics using Python & Power BI
+- 🐍 Hands-on with Python for Data Analysis - Data Cleaning, EDA, Data Visualization using Pandas, NumPy, Matplotlib
+- 📈 Built Interactive Dashboards & Business Intelligence Reports using Power BI
+- 🗄️ Worked on SQL for Data Extraction & Analysis
+- 📊 Gained practical experience in turning raw data into actionable business insights
+---
