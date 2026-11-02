@@ -30,9 +30,9 @@ I don't just write queries, I find **stories hidden in data**. My focus is on co
 - 🔍 Insight Generation: `Insights → Trends → Decisions`
 
 #### 🔥 My Vision
-- 🧠 **Analytical Mindset:** Numbers se kahani nikalna
+- 🧠 **Analytical Mindset:** Extracting meaningful stories from numbers
 - 🎯 **Accuracy First:** Clean Data = Correct Insights
-- 🚀 **Goal:** Top Data Analyst banna jo business ko grow karaye
+- 🚀 **Goal:** To become a Top Data Analyst who drives business growth through data
 
 <br clear="right"/>
 
