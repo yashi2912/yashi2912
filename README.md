@@ -72,9 +72,28 @@ I don't just write queries, I find **stories hidden in data**. My focus is on co
 #### 📊 Data Analytics with Python & Power BI - Virtual Intern
 **EduSkills Academy | Cohort 19**
 
+
+
 - 🎯 Completed comprehensive training in Data Analytics using Python & Power BI
 - 🐍 Hands-on with Python for Data Analysis - Data Cleaning, EDA, Data Visualization using Pandas, NumPy, Matplotlib
 - 📈 Built Interactive Dashboards & Business Intelligence Reports using Power BI
 - 🗄️ Worked on SQL for Data Extraction & Analysis
 - 📊 Gained practical experience in turning raw data into actionable business insights
+---
+
+### 🚀 Featured Projects
+
+#### 📊 1. Superstore Sales Analysis
+**Tech: SQL, Excel, **
+- ✔️ Analyzed 10k+ rows of superstore sales data to find profit & loss trends
+- ✔️ Wrote complex SQL queries - Joins, Subqueries, Window Functions for insights
+- ✔️ Built interactive Excel Dashboard for Sales vs Profit tracking
+
+#### 📚 2. Online Bookstore Sales Analysis
+**Tech: SQL, MySQL, Advanced Excel**
+
+- ✔️ Designed & managed complete Online Bookstore Database - Books, Customers, Orders
+- ✔️ Wrote complex SQL queries - JOINs, GROUP BY, Subqueries to find best-selling books
+- ✔️ Analyzed Customer Buying Patterns, Revenue Trends & Inventory Management
+- ✔️ Built Excel Dashboard with Pivot Tables to track Monthly Sales & Stock Reports
 ---
