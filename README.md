@@ -19,7 +19,7 @@
 
 <img align="right" width="380" src="data-analyst.png" />
 
-Hi, I'm **Yashi Shukla**, an aspiring **Data Analyst**.
+Welcome to my profile! I'm Yashi, a passionate B.Tech CSE student at Invertis University and an aspiring Data Analyst focused on turning data into actionable insights.
 
 I don't just write queries, I find **stories hidden in data**. My focus is on converting raw, messy data into clean, meaningful business insights that help in decision making.
 
